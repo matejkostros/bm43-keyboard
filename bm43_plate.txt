@@ -1,0 +1,4 @@
+["Esc","1\n\n\nF1\n\n\n\n\n\nQ","2\n\n\nF2\n\n\n\n\n\nW","3\n\n\nF3\n\n\n\n\n\nE","4\n\n\nF4\n\n\n\n\n\nR","5\n\n\nF5\n\n\n\n\n\nT","6\n\n\nF6\n\n\n\n\n\nY","7\n\n\nF7\n\n\n\n\n\nU","8\n\n\nF8\n\n\n\n\n\nI","9\n\n\nF9\n\n\n\n\n\nO","0\n\n\nF10\n\n\n\n\n\nP","BS\n\n\nF11"],
+[{a:7,f:9,w:1.25},"⭲",{f:3},"A","S","D","F","G","H","J","K","L",{f:9,w:1.75},"↵"],
+[{w:2},"⇖",{f:3},"Z","X","C","V","B","N","M",{a:4},"(\n,\n-\n{\n\n\n\n\n\n[",")\n.\n_\n}\n\n\n\n\n\n]","\\\n,\n|\n.\n\n\n\n\n\n:"],
+[{a:7,f:9},"⭱","።",{f:3},"Alt",{f:9,w:2.75},"⇗",{w:2.25},"—","⇙",{f:3},"Alt","Fn",{f:9},"⇘"]
